@@ -1,11 +1,13 @@
 # Hangman-Game
 
 #Task
+
 Everyone  has  played  the  classic  word  guessing  game  hangman.  Your  job  is  to  create  a 
 program that will allow a user to play the game. 
 
 
 #Functionality 
+
 The program will obtain a  random word from the list of 20 words within the text file
 ![Screenshot (33)](https://user-images.githubusercontent.com/68082619/169064759-f4aa05f8-86b1-43df-bddf-cd94d75eca28.png)
 
